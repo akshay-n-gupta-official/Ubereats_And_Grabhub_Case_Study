@@ -34,10 +34,10 @@ SELECT * FROM `arboreal-vision-339901.take_home_v2.virtual_kitchen_grubhub_hours
 | File Name                            | Description                                                              |
 | ------------------------------------ | ------------------------------------------------------------------------ |
 | `Final_join_query.sql`               | Final SQL query to compute mismatches between UberEats and Grubhub hours |
-| `Grabhub_table_query.sql`            | Extract and transform Grubhub store hours from JSON                      |
+| `Grubhub_table_query.sql`            | Extract and transform Grubhub store hours from JSON                      |
 | `Ubereats_table_query.sql`           | Extract and transform UberEats store hours from JSON                     |
 | `Result_Of_Final_Join_Query.csv`     | Output result of the final query with mismatch classification            |
-| `Result_Of_Grabhub_Table_Query.csv`  | Flattened and parsed Grubhub store hours                                 |
+| `Result_Of_Grubhub_Table_Query.csv`  | Flattened and parsed Grubhub store hours                                 |
 | `Result_Of_Ubereats_Table_Query.csv` | Flattened and parsed UberEats store hours                                |
 | `README.md`                          | Project documentation and objective                                      |
 
