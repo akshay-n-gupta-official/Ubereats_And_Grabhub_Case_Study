@@ -1,7 +1,7 @@
 
 # 📊 Ubereats_And_Grabhub_Case_Study
 
-This project is a SQL-based data analysis case study focused on identifying **Business Hour Mismatches** between restaurants listed on **UberEats** and **Grubhub**. [More Details](https://loopxyz.notion.site/Analyzing-the-Impact-of-Business-Hour-Mismatch-on-Order-Volume-in-the-Food-Delivery-Industry-A-Case-789fa5edadc84032a6f53b1e23790451)
+This project is a SQL-based data analysis case study focused on identifying **Business Hour Mismatches** between restaurants listed on **UberEats** and **Grubhub**. [More Details](Question.pdf)
 
 ---
 
